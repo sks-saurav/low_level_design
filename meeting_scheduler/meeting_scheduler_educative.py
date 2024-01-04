@@ -34,8 +34,6 @@ class Meeting:
     def add_participants(self, participants):
         pass
 
-
-
 class __MeetingScheduler(object):
   __instances = None
 
